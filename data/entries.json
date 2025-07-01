@@ -1,0 +1,586 @@
+[
+  {
+    "date": "2024-06-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-06-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-06-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-06-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-06-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-06-10",
+    "amount": 3000,
+    "concept": "Ropa",
+    "type": "expense",
+    "notas": "Compra semestral de ropa",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-07-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-07-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-07-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-07-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-07-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-07-15",
+    "amount": 14242,
+    "concept": "Ingreso extra",
+    "type": "income",
+    "notas": "Ingreso adicional por venta o trabajo freelance",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-08-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-08-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-08-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-08-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-08-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-09-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-09-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-09-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-09-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-09-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-10-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-10-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-10-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-10-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-10-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-10-15",
+    "amount": 5869,
+    "concept": "Ingreso extra",
+    "type": "income",
+    "notas": "Ingreso adicional por venta o trabajo freelance",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-11-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-11-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-11-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-11-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-11-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-11-15",
+    "amount": 14809,
+    "concept": "Ingreso extra",
+    "type": "income",
+    "notas": "Ingreso adicional por venta o trabajo freelance",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-12-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-12-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-12-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-12-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-12-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2024-12-10",
+    "amount": 3000,
+    "concept": "Ropa",
+    "type": "expense",
+    "notas": "Compra semestral de ropa",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-01-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-01-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-01-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-01-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-01-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-02-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-02-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-02-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-02-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-02-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-03-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-03-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-03-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-03-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-03-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-04-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-04-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-04-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-04-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-04-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-05-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-05-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-05-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-05-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-05-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-06-01",
+    "amount": 13000,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Pago de sueldo mensual como analista de datos en Corus Consulting",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-06-02",
+    "amount": 800,
+    "concept": "Gasolina",
+    "type": "expense",
+    "notas": "Gasto mensual en gasolina",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-06-03",
+    "amount": 550,
+    "concept": "Renta estacionamiento",
+    "type": "expense",
+    "notas": "Renta mensual del estacionamiento",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-06-04",
+    "amount": 2600,
+    "concept": "Ahorro",
+    "type": "expense",
+    "notas": "20% del ingreso mensual destinado al ahorro",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-06-05",
+    "amount": 1500,
+    "concept": "Salidas",
+    "type": "expense",
+    "notas": "Gastos en salidas con familia o novia",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-06-10",
+    "amount": 3000,
+    "concept": "Ropa",
+    "type": "expense",
+    "notas": "Compra semestral de ropa",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-06-04",
+    "amount": 13000.0,
+    "concept": "Sueldo",
+    "type": "income",
+    "notas": "Sueldo adelantado por prestamo",
+    "usuario": "yoshua"
+  },
+  {
+    "date": "2025-06-04",
+    "amount": 8000.0,
+    "concept": "Entertainment",
+    "type": "expense",
+    "notas": "Gastos en el coche",
+    "usuario": "yoshua"
+  }
+]

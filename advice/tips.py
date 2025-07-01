@@ -1,0 +1,17 @@
+FINANCIAL_TIPS = [
+    "Destina al menos el 20% de tus ingresos al ahorro.",
+    "Evita las compras impulsivas; espera 24 horas antes de hacer una compra importante.",
+    "Haz un presupuesto mensual y cúmplelo.",
+    "Revisa tus suscripciones y cancela las que no uses.",
+    "Paga tus deudas comenzando por las de mayor interés.",
+    "Compra con lista para evitar gastos innecesarios.",
+    "Compara precios antes de comprar productos grandes o costosos.",
+    "Guarda un fondo de emergencia equivalente a 3-6 meses de gastos.",
+    "Invierte en tu educación financiera, es la mejor inversión.",
+    "Automatiza tus ahorros mensuales.",
+    "Evita pagar solo el mínimo en tus tarjetas de crédito.",
+    "No gastes más de lo que ganas, incluso si puedes usar crédito.",
+    "Haz seguimiento de todos tus gastos diarios durante al menos un mes.",
+    "Compra usado o en buen estado antes que nuevo si puedes ahorrar significativamente.",
+    "Planifica tus compras grandes con anticipación y busca descuentos.",
+]
